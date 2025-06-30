@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../library/essential components/Logo';
+import Logo from './essential components/Logo';
 
 function App() {
   return (
